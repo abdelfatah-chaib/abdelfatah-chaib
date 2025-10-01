@@ -40,8 +40,8 @@ I’m open to collaborating on projects related to:
 
 - Data Science & Predictive Analytics
 
--- Reach me at: abdelfatahchaib@gmail.com   or  abdelfattah.chaib@uit.ac.ma
+#### Reach me at: abdelfatahchaib@gmail.com   or  abdelfattah.chaib@uit.ac.ma
 
--- LinkedIn : https://www.linkedin.com/in/abdelfatah-chaib-5393b7200
+#### LinkedIn : https://www.linkedin.com/in/abdelfatah-chaib-5393b7200
 
 ### Let's shape the future and transform ideas into intelligent realities!
