@@ -10,13 +10,13 @@ My mission is to build innovative, intelligent, and data-driven solutions that h
 
 ## What I Do
 
-🤖 Develop and experiment with machine learning and deep learning models
+- Develop and experiment with machine learning and deep learning models
 
-📊 Work on data pipelines, data analysis, and predictive modeling
+- Work on data pipelines, data analysis, and predictive modeling
 
-🌐 Build web applications with modern frameworks and intuitive design
+- Build web applications with modern frameworks and intuitive design
 
-🧠 Explore the integration of AI in IoT systems for smart and connected solutions
+- Explore the integration of AI in IoT systems for smart and connected solutions
 
 ## Tech Stack & Tools
 
@@ -32,16 +32,16 @@ Others: Git/GitHub, REST APIs, FastAPI, Docker
 
 I’m open to collaborating on projects related to:
 
-🧠 Artificial Intelligence & Machine Learning
+- Artificial Intelligence & Machine Learning
 
-📶 IoT & Smart Systems
+- IoT & Smart Systems
 
-🌐 Full-Stack Web Development with IA integration
+- Full-Stack Web Development with IA integration
 
-📈 Data Science & Predictive Analytics
+- Data Science & Predictive Analytics
 
-📫 Reach me at: abdelfatahchaib@gmail.com   or  abdelfattah.chaib@uit.ac.ma
+-- Reach me at: abdelfatahchaib@gmail.com   or  abdelfattah.chaib@uit.ac.ma
 
-💼 LinkedIn : https://www.linkedin.com/in/abdelfatah-chaib-5393b7200
+-- LinkedIn : https://www.linkedin.com/in/abdelfatah-chaib-5393b7200
 
 ### Let's shape the future and transform ideas into intelligent realities!
