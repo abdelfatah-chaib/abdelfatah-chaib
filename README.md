@@ -20,12 +20,12 @@ My mission is to build innovative, intelligent, and data-driven solutions that h
 
 ## Tech Stack & Tools
 
-Languages: Python, Java, JavaScript, C/C++, PHP, HTML, CSS
-Frameworks & Libraries: Streamlit, REACT, NodeJs, Blazor, ASP.NET 
-Data & AI Tools: Pandas, NumPy, Scikit-learn, Seaborn, openCV, PyTorch, TensorFlow, Rasterio
-Databases: SGBD Oracle, SQLite, MySQL
-Big Data Tools: Apache NiFi, Apache Airflow, Hadoop
-Others: Git/GitHub, REST APIs, FastAPI, Docker
+- Languages: Python, Java, JavaScript, C/C++, PHP, HTML, CSS
+- Frameworks & Libraries: Streamlit, REACT, NodeJs, Blazor, ASP.NET 
+- Data & AI Tools: Pandas, NumPy, Scikit-learn, Seaborn, openCV, PyTorch, TensorFlow, Rasterio
+- Databases: SGBD Oracle, SQLite, MySQL
+- Big Data Tools: Apache NiFi, Apache Airflow, Hadoop
+- Others: Git/GitHub, REST APIs, FastAPI, Docker
 
 
 ## Let's Collaborate
