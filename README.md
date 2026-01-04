@@ -1,47 +1,80 @@
-👋 Hi there, I'm Abdelfatah CHAIB
+<h1 align="center">Hi 👋, I'm Abdelfatah CHAIB</h1>
+<h3 align="center">AI & Data Engineering Graduate | AI & IoT Engineer | Full-Stack Developer</h3>
 
-🎓 AI & Data Engineering Graduate | Aspiring AI & IoT Engineer | Software & Web Developer
+<p align="center">
+🚀 Turning data into intelligence, and intelligence into impact.
+</p>
 
-## About Me
+---
 
-I'm a passionate software developer and AI enthusiast with a strong foundation in artificial intelligence, data engineering, and software development.
-I recently earned my bachelor in Artificial Intelligence and Data Engineering, and I am currently pursuing my master in AI and Internet of Things (IoT).
-My mission is to build innovative, intelligent, and data-driven solutions that have real-world impact.
+## 👨‍💻 About Me
 
-## What I Do
+🚀 Passionate about building **intelligent, data-driven and connected systems** with real-world impact.
 
-- Develop and experiment with machine learning and deep learning models
+🎓 Bachelor’s degree in **Artificial Intelligence & Data Engineering**  
+🎓 Currently pursuing a **Master’s in Artificial Intelligence & Internet of Things (IoT)**  
 
-- Work on data pipelines, data analysis, and predictive modeling
+💡 I enjoy transforming complex problems into scalable AI-powered solutions.
 
-- Build web applications with modern frameworks and intuitive design
+---
 
-- Explore the integration of AI in IoT systems for smart and connected solutions
+## 🛠️ What I Do
 
-## Tech Stack & Tools
+- 🤖 Design and train **Machine Learning & Deep Learning models**
+- 📊 Build **data pipelines**, analytics workflows & predictive systems
+- 🌐 Develop **modern web applications** with AI integration
+- 🔌 Explore **AI-powered IoT solutions** for smart environments
 
-- Languages: Python, Java, JavaScript, C/C++, PHP, HTML, CSS
-- Frameworks & Libraries: Streamlit, REACT, NodeJs, Blazor, ASP.NET 
-- Data & AI Tools: Pandas, NumPy, Scikit-learn, Seaborn, openCV, PyTorch, TensorFlow, Rasterio
-- Databases: SGBD Oracle, SQLite, MySQL
-- Big Data Tools: Apache NiFi, Apache Airflow, Hadoop
-- Others: Git/GitHub, REST APIs, FastAPI, Docker
+---
 
+## ⚙️ Tech Stack
 
-## Let's Collaborate
+### 🧑‍💻 Languages
+![Languages](https://skillicons.dev/icons?i=python,java,js,cpp,php,html,css)
 
-I’m open to collaborating on projects related to:
+### 🧩 Frameworks & Libraries
+![Frameworks](https://skillicons.dev/icons?i=react,nodejs,streamlit,fastapi,dotnet)
+
+### 🤖 AI & Data
+![AI](https://skillicons.dev/icons?i=pytorch,tensorflow)
+- Pandas, NumPy, Scikit-learn, OpenCV, Seaborn, Rasterio
+
+### 🗄️ Databases & Big Data
+![Databases](https://skillicons.dev/icons?i=mysql,sqlite,oracle)
+- Apache NiFi, Apache Airflow, Hadoop
+
+### 🛠️ DevOps & Tools
+![Tools](https://skillicons.dev/icons?i=git,github,docker)
+
+---
+
+## 🎯 Focus Areas
 
 - Artificial Intelligence & Machine Learning
+- AI + IoT Smart & Connected Systems
+- Data Engineering & Predictive Analytics
+- Full-Stack Web Development with AI integration
 
-- IoT & Smart Systems
+---
 
-- Full-Stack Web Development with IA integration
+## 📈 GitHub Stats
 
-- Data Science & Predictive Analytics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdelfatahchaib&show_icons=true&theme=tokyonight" />
+</p>
 
-#### Reach me at: abdelfatahchaib@gmail.com   or  abdelfattah.chaib@uit.ac.ma
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdelfatahchaib&theme=tokyonight" />
+</p>
 
-#### LinkedIn : https://www.linkedin.com/in/abdelfatah-chaib-5393b7200
+---
 
-### Let's shape the future and transform ideas into intelligent realities!
+## 🌍 Connect with Me
+
+- 📧 Email: **abdelfatahchaib@gmail.com**
+- 🎓 Academic: **abdelfattah.chaib@uit.ac.ma**
+- 💼 LinkedIn: [Abdelfatah CHAIB](https://www.linkedin.com/in/abdelfatah-chaib-5393b7200)
+
+---
+
+⭐ *Let's shape the future and transform ideas into intelligent realities.*
