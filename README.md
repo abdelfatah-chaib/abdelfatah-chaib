@@ -148,3 +148,7 @@ Research projects, applied AI & IoT use-cases
 <p align="center">
 ⭐ <i>Let’s shape the future and transform ideas into intelligent realities.</i>
 </p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=YOUR_TEXT_HERE&fontSize=24&fontColor=ffffff&animation=twinkling&fontAlignY=75" />
+</p>
