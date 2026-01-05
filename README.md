@@ -101,7 +101,7 @@ I focus on building <b>intelligent, data-driven and connected systems</b> that s
 
 ### 🎯 I’m open to:
 
-<p align="center">
+<div align="center">
 
 🔬 <b>AI & Data Research Collaborations</b><br/>
 Machine Learning, Deep Learning, Computer Vision, Data-driven systems  
@@ -118,7 +118,7 @@ AI-powered and IoT-based solutions
 🎓 <b>Academic Collaborations</b><br/>
 Research projects, applied AI & IoT use-cases  
 
-</p>
+</div>
 
 ---
 
