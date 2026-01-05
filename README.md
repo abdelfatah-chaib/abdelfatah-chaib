@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f2027&height=220&section=header&text=Abdelfatah%20CHAIB&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Data%20Engineering%20|%20AI%20%26%20IoT%20Engineer&descAlignY=55" />
+  <img src="https://camo.githubusercontent.com/4c9d05d50f7440090b2aa26d0b41a71c2747a1ab7e98ca666604b8b18c20f136/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e7426637573746f6d436f6c6f724c6973743d362c31312c3230266865696768743d3130302673656374696f6e3d68656164657226746578743d26666f6e7453697a653d3026616e696d6174696f6e3d66616465496e" alt="Bannière animée"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Abdelfatah CHAIB</h1>
@@ -150,5 +150,5 @@ Research projects, applied AI & IoT use-cases
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=YOUR_TEXT_HERE&fontSize=24&fontColor=ffffff&animation=twinkling&fontAlignY=75" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Building%20Intelligent%20Systems%20for%20a%20Smarter%20Future&fontSize=24&fontColor=ffffff&animation=twinkling&fontAlignY=75" />
 </p>
