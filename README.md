@@ -6,7 +6,7 @@
 <h3 align="center">AI & Data Engineering Graduate | AI & IoT Engineer | Full-Stack Developer</h3>
 
 <p align="center">
-🚀 Turning data into intelligence, and intelligence into real-world impact.
+ Turning data into intelligence, and intelligence into real-world impact.
 </p>
 
 ---
@@ -22,10 +22,10 @@ I focus on building <b>intelligent, data-driven and connected systems</b> that s
 
 ## 🛠️ What I Do
 
-- 🤖 Machine Learning & Deep Learning models
-- 📊 Data pipelines & predictive systems
-- 🌐 Web apps with AI integration
-- 🔌 AI-powered IoT solutions
+-  Machine Learning & Deep Learning models
+-  Data pipelines & predictive systems
+-  Web apps with AI integration
+-  AI-powered IoT solutions
 
 ---
 ## 🛠️ Tech Stack & Tools
@@ -99,23 +99,23 @@ I focus on building <b>intelligent, data-driven and connected systems</b> that s
 
 ## 🤝 Let’s Connect & Collaborate!
 
-### 🎯 I’m open to:
+###  I’m open to:
 
 <div align="center">
 
-🔬 <b>AI & Data Research Collaborations</b><br/>
+ <b>AI & Data Research Collaborations</b><br/>
 Machine Learning, Deep Learning, Computer Vision, Data-driven systems  
 
-🏢 <b>AI & Data Engineering Projects</b><br/>
+ <b>AI & Data Engineering Projects</b><br/>
 Prediction systems, automation, intelligent analytics  
 
-🌍 <b>Open Source Contributions</b><br/>
+ <b>Open Source Contributions</b><br/>
 AI tools, data science libraries, educational content  
 
-🚀 <b>Innovative & Startup Projects</b><br/>
+ <b>Innovative & Startup Projects</b><br/>
 AI-powered and IoT-based solutions  
 
-🎓 <b>Academic Collaborations</b><br/>
+ <b>Academic Collaborations</b><br/>
 Research projects, applied AI & IoT use-cases  
 
 </div>
