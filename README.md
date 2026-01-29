@@ -97,6 +97,20 @@ I focus on building <b>intelligent, data-driven and connected systems</b> that s
 
 ---
 
+## 🚀 GitHub Stats
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdelfatah-chaib&theme=github_dark">
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abdelfatah-chaib&theme=github_dark">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abdelfatah-chaib&theme=github_dark">
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=abdelfatah-chaib&color=blueviolet&style=flat">
+
+---
 ## 🤝 Let’s Connect & Collaborate!
 
 ###  I’m open to:
