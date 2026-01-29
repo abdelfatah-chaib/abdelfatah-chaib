@@ -108,8 +108,6 @@ I focus on building <b>intelligent, data-driven and connected systems</b> that s
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abdelfatah-chaib&theme=github_dark">
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=abdelfatah-chaib&color=blueviolet&style=flat">
-
 ---
 ## 🤝 Let’s Connect & Collaborate!
 
