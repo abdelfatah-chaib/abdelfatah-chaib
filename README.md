@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Abdelfatah CHAIB</h1>
-<h3 align="center">AI & Data Engineering Graduate | AI & IoT Engineer | Full-Stack Developer</h3>
+<h3 align="center">AI & IoT Student | Data Scientist | Machine Learning Engineer | Software Developer
 
 <p align="center">
  Turning data into intelligence, and intelligence into real-world impact.
