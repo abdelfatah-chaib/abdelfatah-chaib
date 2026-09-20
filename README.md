@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Abdelfatah CHAIB</h1>
-<h3 align="center">AI & IoT Student | Data Scientist | Machine Learning Engineer | Software Developer
+<h3 align="center">AI & IoT Research | Machine Learning & Computer Vision | Data & Software Engineering
 
 <p align="center">
  Turning data into intelligence, and intelligence into real-world impact.
@@ -14,7 +14,7 @@
 ## 👨‍💻 About Me
 
 <p align="center">
-I'm a passionate <b>AI & Data Engineering graduate</b>, currently pursuing a <b>Master’s in Artificial Intelligence & Internet of Things (IoT)</b>.<br/>
+I'm a passionate <b>AI & Data Engineering graduate</b>, currently pursuing a <b>Master’s in Smart IoT</b>.<br/>
 I focus on building <b>intelligent, data-driven and connected systems</b> that solve real problems using AI, data engineering and modern software technologies.
 </p>
 
@@ -23,6 +23,7 @@ I focus on building <b>intelligent, data-driven and connected systems</b> that s
 ## 🛠️ What I Do
 
 -  Machine Learning & Deep Learning models
+-  Computer vision and Image Processing
 -  Data pipelines & predictive systems
 -  Web apps with AI integration
 -  AI-powered IoT solutions
@@ -151,7 +152,7 @@ Research projects, applied AI & IoT use-cases
 ---
 
 <p align="center">
-📍 <b>Location:</b> Morocco &nbsp; | &nbsp;
+📍 <b>Location:</b> Poitiers, France &nbsp; | &nbsp;
 🌐 <b>Availability:</b> Remote & Hybrid opportunities worldwide
 </p>
 
